@@ -1,0 +1,29 @@
+header {
+    background-color: black;
+}
+
+.topnav {
+    display: inline-block;
+}
+
+ul.topnav-list {
+    list-style-type: none;
+}
+  
+nav li {
+    display: inline;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: 800;
+}
+
+body {
+    background-color: gainsboro;
+}
